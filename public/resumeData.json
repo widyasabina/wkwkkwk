@@ -29,9 +29,9 @@
         "className":"fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
+        "name":"youtube",
+        "url":"https://youtube.com/@DKPPJABAR",
+        "className":"fa fa-youtube"
       },
       {
         "name":"instagram",
@@ -39,9 +39,9 @@
         "className":"fa fa-instagram"
       },
       {
-        "name":"website",
+        "name":"globe",
         "url":"https://dkpp.jabarprov.go.id/",
-        "className":"fa fa-github"
+        "className":"fa fa-globe"
       }
     ]
   },
